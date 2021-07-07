@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\bin\Debug\Pharmacie.exe
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\bin\Debug\Pharmacie.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.exe
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Pharmacie\Pharmacie\obj\Debug\Pharmacie.Home.resources
